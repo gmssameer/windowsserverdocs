@@ -146,7 +146,7 @@ The following are special syntax for rules:
     The following rule matches every claim in the working set. This is the basic "Allow-all" rule if it is used alone.  
   
     ```  
-    C1:[] => Issule (claim = C1);  
+    C1:[] => Issue (claim = C1);  
     ```  
   
 ## Security considerations  
